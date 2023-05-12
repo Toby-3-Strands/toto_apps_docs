@@ -1,7 +1,7 @@
 # Privacy Policy
 ## Last updated May 12, 2023
 
-Toto Dictionary is a mobile application offered free of charge by 3 Strands Consulting Services Ltd (‘*we*’ or ‘*our*’). This privacy policy applies when you download and use our mobile application (Toto Dictionary).
+Toto Dictionary is a mobile application offered free of charge by 3 Strands Consulting Services Ltd (‘**we**’ or ‘**our**’). This privacy policy applies when you download and use our mobile application (Toto Dictionary).
 
 *We do not collect or use any data from you.*
 
