@@ -1,2 +1,2 @@
 # Toto Dictionary
-[Privacy Policy](./toto_dictionary/privacy_policy)
+[Privacy Policy](https://toby-3-strands.github.io/toto_apps_docs/toto_dictionary/privacy_policy)
