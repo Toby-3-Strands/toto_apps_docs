@@ -1,2 +1,2 @@
 # Toto Dictionary
-[Privacy Policy](toto_dict_privacy_policy.md)
+[Privacy Policy](./toto_dictionary/privacy_policy)
