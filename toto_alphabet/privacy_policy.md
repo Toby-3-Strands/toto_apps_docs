@@ -5,4 +5,4 @@ Toto Alphabet is a mobile application offered free of charge by 3 Strands Consul
 
 *We do not collect or use any data from you.*
 
-If you do not agree with our policies and practives, please do not use our services. If you have any question or concerns, please contact us at [toby_anderson@threestrands.in](mailto:toby_anderson@threestrands.in)
+If you do not agree with our policies and practices, please do not use our services. If you have any question or concerns, please contact us at [toby_anderson@threestrands.in](mailto:toby_anderson@threestrands.in)
